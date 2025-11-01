@@ -1,0 +1,5 @@
+name = "n8n-workflows1"
+compatibility_date = "2025-11-01"
+
+[site]
+bucket = "./static"
