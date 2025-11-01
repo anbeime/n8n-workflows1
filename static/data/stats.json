@@ -1,0 +1,19 @@
+{
+  "total": 4834,
+  "active": 463,
+  "inactive": 4371,
+  "triggers": {
+    "Complex": 1988,
+    "Manual": 1367,
+    "Scheduled": 456,
+    "Webhook": 1023
+  },
+  "complexity": {
+    "high": 1967,
+    "low": 1194,
+    "medium": 1673
+  },
+  "total_nodes": 79719,
+  "unique_integrations": 371,
+  "last_indexed": "2025-11-01T12:58:22.060326"
+}

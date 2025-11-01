@@ -1,0 +1,98 @@
+{
+  "categories": [
+    "ai_ml",
+    "analytics",
+    "calendar_tasks",
+    "cloud_storage",
+    "database",
+    "development",
+    "ecommerce",
+    "email",
+    "forms",
+    "messaging",
+    "project_management",
+    "social_media"
+  ],
+  "service_categories": {
+    "messaging": [
+      "Telegram",
+      "Discord",
+      "Slack",
+      "WhatsApp",
+      "Mattermost",
+      "Microsoft Teams",
+      "Rocket.Chat"
+    ],
+    "email": [
+      "Gmail",
+      "Mailjet",
+      "Email (IMAP)",
+      "Email (SMTP)",
+      "Outlook"
+    ],
+    "cloud_storage": [
+      "Google Drive",
+      "Google Docs",
+      "Google Sheets",
+      "Dropbox",
+      "OneDrive",
+      "Box"
+    ],
+    "database": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Airtable",
+      "Notion"
+    ],
+    "project_management": [
+      "Jira",
+      "GitHub",
+      "GitLab",
+      "Trello",
+      "Asana",
+      "Monday.com"
+    ],
+    "ai_ml": [
+      "OpenAI",
+      "Anthropic",
+      "Hugging Face",
+      "CalcsLive"
+    ],
+    "social_media": [
+      "LinkedIn",
+      "Twitter/X",
+      "Facebook",
+      "Instagram"
+    ],
+    "ecommerce": [
+      "Shopify",
+      "Stripe",
+      "PayPal"
+    ],
+    "analytics": [
+      "Google Analytics",
+      "Mixpanel"
+    ],
+    "calendar_tasks": [
+      "Google Calendar",
+      "Google Tasks",
+      "Cal.com",
+      "Calendly"
+    ],
+    "forms": [
+      "Typeform",
+      "Google Forms",
+      "Form Trigger"
+    ],
+    "development": [
+      "Webhook",
+      "HTTP Request",
+      "GraphQL",
+      "Server-Sent Events",
+      "YouTube"
+    ]
+  },
+  "total": 12
+}
